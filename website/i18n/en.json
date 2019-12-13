@@ -357,7 +357,6 @@
       "4D Language Concepts": "4D Language Concepts",
       "Project Databases": "Project Databases",
       "Form Editor": "Form Editor",
-      "Views": "Views",
       "Form Objects": "Form Objects",
       "Form Object Properties": "Form Object Properties",
       "Menus": "Menus",
@@ -374,6 +373,9 @@
     "Administration|no description given": "Administration",
     "Help Translate|recruit community translators for your project": "Help Translate",
     "Edit this Doc|recruitment message asking to edit the doc source": "Edit",
-    "Translate this Doc|recruitment message asking to translate the docs": "Translate"
+    "Translate this Doc|recruitment message asking to translate the docs": "Translate",
+    "Language Concepts|no description given": "Language Concepts",
+    "Project databases|no description given": "Project databases",
+    "4D for iOS|no description given": "4D for iOS"
   }
 }
